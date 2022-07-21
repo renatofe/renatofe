@@ -17,7 +17,7 @@
 <img align="center" alt="Ren-SqlServ" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
  </div>
  <a href="https://github.com/renatofe/renatofe/pulls">
-      <img alt="GitHub pull requests" src="https://github.com/renatofe/renatofe/edit/main/README.md?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/renatofe/renatofe?color=0088ff" />
     </a>
  
 
