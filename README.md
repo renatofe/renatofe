@@ -16,8 +16,8 @@
 <img align="center" alt="Ren-Html" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt="Ren-SqlServ" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
  </div>
- <a href="https://github.com/renatofe/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+ <a href="https://github.com/renatofe/README.md/pulls">
+      <img alt="GitHub pull requests" src="https://github.com/renatofe/renatofe/edit/main/README.md?color=0088ff" />
     </a>
  
 
