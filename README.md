@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-original-wordmark.svg?size=400&color=000000">
-<img align="center" alt="Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=100&color=000000">
+<img align="center" alt="Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=400&color=000000">
 <img align="center" alt="" height="30" width="40" src="">
 
 </div>
