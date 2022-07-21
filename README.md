@@ -11,7 +11,6 @@
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Ren-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Ren-Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=400&color=000000">
-<img align="center" alt="" height="30" width="40" src="">
+<img align="center" alt="Ren-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
 </div>
