@@ -10,7 +10,8 @@
   <a href="https://github.com/renatoferrazs"><img height="180em" align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoferrazs&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Ren-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+<!-- <img align="center" alt="Ren-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Ren-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
 
 </div>
